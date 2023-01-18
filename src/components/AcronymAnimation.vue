@@ -20,8 +20,8 @@
 <style scoped>
 	.img-container {
 		position: relative;
-		width: 80vw;
 		margin-inline: auto;
+		max-width: 100rem;
 	}
 
 	img {

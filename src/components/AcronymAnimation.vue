@@ -1,6 +1,5 @@
 <!-- ********************************** HTML ********************************************* -->
 <template>
-	<h1>Hello World!</h1>
 	<div class="img-container">
 		<img
 			src="/jaydepi-free.svg"

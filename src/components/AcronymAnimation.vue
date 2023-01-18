@@ -21,10 +21,10 @@
 	.img-container {
 		position: relative;
 		margin-inline: auto;
-		max-width: 100rem;
 	}
 
 	img {
+		width: 70vw;
 		height: auto;
 	}
 </style>
